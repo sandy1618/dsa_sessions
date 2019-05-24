@@ -4,9 +4,7 @@
 2. We need to conform to ACM-ICPC style problem solving.
 3. We shall learn to commit and push to github.
 4. We read the previous session slides and code reference if any and try to implement in language of our choice.
-
-
-
+5. Detailed tasks mentioned in ```task.md``` file in ```sessions``` folder. 
 
 ## Introductory Session
 
