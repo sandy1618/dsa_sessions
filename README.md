@@ -15,7 +15,7 @@ Deep Dive into Data Structures &amp; Algorithms.
 
 [PROBLEM-SESSION-1](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
-## Some usefull command for git.
+## Some useful commands for git.
 
 ```
 $ sudo git clone <git-url>
