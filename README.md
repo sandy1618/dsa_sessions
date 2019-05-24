@@ -9,6 +9,7 @@ Deep Dive into Data Structures &amp; Algorithms.
 
 ## SESSION : 1
 [SESSION-1 REFERENCE MATERIAL](https://docs.google.com/presentation/d/1cuvYXb8OdyYfJmVp_ZqTWzU6O13t77tGtFdqT1IgmBo/edit#slide=id.p)
+[PROBLEM-SESSION-1](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
 ## Some usefull command for git.
 
