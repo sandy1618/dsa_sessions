@@ -3,7 +3,7 @@ Deep Dive into Data Structures &amp; Algorithms.
 
 ## Tasks 
 
-1. We solve the tasks as given in TASK.md file.
+1. We solve the tasks as given in ```task.md``` file.
 2. We think in terms of algorithmic complexity and try to solve a general problem. 
 
 
