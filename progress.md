@@ -12,3 +12,9 @@
 2. Simple problem solving approach. 
 3. Took a simple graph theory problem and learn't about an algorithmic approach to problem solving.
 
+## NEXT SESSION : 
+
+1. C++ STLs and STL Algorithms.
+2. Simple Problem solving paradigms. 
+3. Solve a array based problem and see other algorithmic apporaches.
+4. Show a piece of python code that is awesome in some sense. 
