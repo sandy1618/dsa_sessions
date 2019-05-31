@@ -12,9 +12,16 @@
 2. Simple problem solving approach. 
 3. Took a simple graph theory problem and learn't about an algorithmic approach to problem solving.
 
-## NEXT SESSION : 
+## SESSION-1-DSA
 
-1. C++ STLs and STL Algorithms.
-2. Simple Problem solving paradigms. 
-3. Solve a array based problem and see other algorithmic apporaches.
-4. Show a piece of python code that is awesome in some sense. 
+1. Program Structure. 
+2. Code Sections
+3. Anatomy of a python program.
+4. Anatomy of a C program. 
+5. C++ Headers and useful libraries.
+7. C++ STLs and use as a program-constructs
+8. Code Environment. 
+9. Set Timeline.
+10. Practice a HackerRank Problem. 
+11. Why Competitve programming ??
+
