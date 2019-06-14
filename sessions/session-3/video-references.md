@@ -5,4 +5,5 @@
 
 ### Solve : 
 
-1. 
+1. [Deque Problem](https://www.hackerrank.com/challenges/deque-stl/problem)
+2. How to make a ```vector``` data-strucure using a simple ```array```, ```malloc()```, ```calloc()```.
