@@ -15,5 +15,4 @@
 0. Divide and Conquer. A Byzantine Approach to problem solving. (30 mins)
 
 2. Google Kick Start problem solving. (30 mins)
-3. Basic PC/Laptop setup for coding. (15 mins)
-4. Vectors, Stacks, Deque, Queue, Priority-Queues. (40 mins).
+3. CodeChef Problem Solving. (30 mins)
