@@ -15,7 +15,11 @@ Deep Dive into Data Structures &amp; Algorithms.
 
 [PROBLEM-SESSION-1](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
+## SESSION - 2
 
+1. OS and Architechture Basics.
+2. Some C++ STLs usage.
+3. Code Reviewing.
 
 ## Some useful commands for git.
 
