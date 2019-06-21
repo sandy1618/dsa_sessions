@@ -25,4 +25,4 @@ template_path=.github/ISSUE_TEMPLATE/Project_Item_Template.md
 
 
 
-### Please assign task and mention project name as Site-Backend Framework Project. See the right side bar.
+### Please assign task and mention project name as Programming Management Project. See the right side bar.
