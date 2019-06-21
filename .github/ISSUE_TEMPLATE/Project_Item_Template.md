@@ -1,6 +1,6 @@
 ---
 name: ⚠ Project Item
-about: Use it to add a general project item for related project. It will be tracked under Site-Backend Framework Project.
+about: Use it to add a general project item for related project. It will be tracked under Progamming Management.
 title: 'Site-Backend Framework Project Item'
 labels: enhancement, help wanted
 assignees: ''
