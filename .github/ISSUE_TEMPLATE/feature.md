@@ -1,5 +1,5 @@
 ---
-name: ⚠️ Feature Request
+name: 💡 Feature Request
 about: Tell us more about what feature you need. 
 title: ''
 labels: enhancement
@@ -8,7 +8,7 @@ assignees: ''
 
 <!-- DO NOT DELETE 
 validate_template=true
-template_path=.github/ISSUE_TEMPLATE/feature_request.md
+template_path=.github/ISSUE_TEMPLATE/feature.md
 -->
 
 
