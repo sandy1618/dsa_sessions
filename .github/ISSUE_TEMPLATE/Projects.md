@@ -24,7 +24,3 @@ template_path=.github/ISSUE_TEMPLATE/Projects.md
 
 ### What does it affect ? 
 <!-- Frontend, Backend, APIs, Framework, Project-Related -->
-
-
-
-### Please assign task and mention project name as Site-Backend Framework Project. See the right side bar.
