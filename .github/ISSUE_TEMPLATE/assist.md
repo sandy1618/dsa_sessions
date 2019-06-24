@@ -21,6 +21,3 @@ template_path=.github/ISSUE_TEMPLATE/assist.md
 
 ### What is to be done ?
 
-
-
-### Please assign task and mention project name as Site-Backend Framework Project. See the right side bar.
